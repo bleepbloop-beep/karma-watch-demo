@@ -1,0 +1,19 @@
+# Build output
+dist/
+deploy-*.zip
+
+# Secrets and machine-local state: never commit
+config.json
+.env
+.env.*
+!.env.example
+.netlify/
+.discover-state.json
+.discover-state.json.tmp
+
+# Noise
+node_modules/
+*.log
+out.json
+.DS_Store
+._*

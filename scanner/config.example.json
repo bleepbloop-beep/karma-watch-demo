@@ -1,0 +1,6 @@
+{
+  "SUPABASE_URL": "https://YOUR-PROJECT-REF.supabase.co",
+  "SUPABASE_SECRET_KEY": "PASTE_YOUR_SB_SECRET_KEY_HERE",
+  "USER_ID": "",
+  "ANTHROPIC_API_KEY": ""
+}
